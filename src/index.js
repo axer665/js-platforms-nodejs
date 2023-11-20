@@ -1,3 +1,3 @@
-const ajs = require('@axer665/js-platforms');
+const ajs = require('@axer665/myajs');
 
 console.log(ajs.info());

@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axer665/js-platforms-nodejs.git"
+    "url": "git+https://github.com/axer665/js-ajs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/axer665/js-platforms-nodejs/issues"
+    "url": "https://github.com/axer665/js-ajs/issues"
   },
-  "homepage": "https://github.com/axer665/js-platforms-nodejs#readme",
+  "homepage": "https://github.com/axer665/js-ajs#readme",
   "dependencies": {
-    "@axer665/js-platforms": "^1.0.0"
+    "@axer665/myajs": "^1.0.0"
   }
 }
